@@ -1,6 +1,6 @@
 {
-    "name": "control_redmine",
-    "short_name": "control_redmine",
+    "name": "cv_flutter",
+    "short_name": "cv_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
